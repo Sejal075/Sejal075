@@ -75,14 +75,19 @@ I learn best by **doing real projects**, breaking things, fixing them, and impro
 
 ## 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+</p>
 
 ---
 
