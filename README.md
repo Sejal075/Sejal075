@@ -93,7 +93,7 @@ I learn best by **doing real projects**, breaking things, fixing them, and impro
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/www.linkedin.com/in/sejal-umredkar-203305322
+- 💼 LinkedIn: https://www.linkedin.com/in/sejal-umredkar-203305322
 - 💻 GitHub: https://github.com/Sejal075
 
 ---
