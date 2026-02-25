@@ -31,7 +31,7 @@ I learn best by **doing real projects**, breaking things, fixing them, and impro
 
 ### 🔁 CI/CD & Automation
 - Jenkins (Freestyle & Pipeline Jobs)
-- GitHub + Git workflows
+- GitHub + Git workflows + GitHub Actions
 - Automated build, test & deployment pipelines
 
 ### ⚙️ Configuration & Monitoring
@@ -86,6 +86,7 @@ I learn best by **doing real projects**, breaking things, fixing them, and impro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
 
